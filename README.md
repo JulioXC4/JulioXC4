@@ -21,7 +21,7 @@ Me gusta entender los problemas de punta a punta — desde el requerimiento de n
 ## 💼 Experiencia Profesional
 
 ### Backend Developer Intern · Devdatep Consulting
-**2025 · Lima, Perú**
+**2026 · Lima, Perú**
 
 Participé en el desarrollo del sistema **EmiteFacil**, una plataforma SaaS de facturación electrónica para empresas peruanas.
 
@@ -195,14 +195,22 @@ API RESTful de gestión de tareas con Clean Architecture, autenticación JWT, co
 
 ---
 
-## 🎯 Hacia Dónde Voy
+## 🎯 Ruta de Aprendizaje y Crecimiento (Hacia Dónde Voy)
 
-Estoy enfocado en consolidar mi perfil como **Full Stack Developer** con una visión integral del desarrollo de software:
+Mi meta a corto y mediano plazo es consolidar mi perfil como **Full Stack Developer** adquiriendo capacidades profundas en ingeniería y automatización. Actualmente estoy enfocando mi aprendizaje en:
 
-- **Arquitectura de Software** — Sistemas distribuidos, Domain-Driven Design, patrones de escalabilidad
-- **Cloud & DevOps** — Contenedores, pipelines CI/CD, servicios en Azure
-- **Frontend avanzado** — Profundizar en Vue.js y explorar frameworks modernos
-- **Integración de IA** — Aplicar inteligencia artificial en soluciones de software reales
+* 🏗️ **Arquitectura de Software & Diseño**:
+  * *Foco:* Domain-Driven Design (DDD), Clean Architecture, patrones de mensajería (MQTT, WebSockets) y diseño de microservicios.
+  * *Propósito:* Diseñar sistemas desacoplados, tolerantes a fallos y fáciles de escalar.
+* ☁️ **Cultura DevOps & Computación Cloud**:
+  * *Foco:* Orquestación de contenedores, pipelines CI/CD (GitHub Actions) y administración de servicios cloud en Microsoft Azure.
+  * *Propósito:* Automatizar el ciclo de vida del software para realizar entregas de valor constantes y estables.
+* 💻 **Frontend Moderno**:
+  * *Foco:* Profundizar en Angular y dominar patrones modernos de Vue.js 3 (Pinia y Composition API).
+  * *Propósito:* Construir experiencias del lado del cliente fluidas, modulares y de alto rendimiento.
+* 🤖 **Integración de Inteligencia Artificial**:
+  * *Foco:* Aplicación práctica de servicios cognitivos y LLMs para optimizar procesos y automatizar tareas.
+  * *Propósito:* Resolver problemas complejos del negocio mediante automatizaciones inteligentes.
 
 ---
 
