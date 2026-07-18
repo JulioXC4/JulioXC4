@@ -179,15 +179,17 @@ API RESTful de gestión de tareas con Clean Architecture, autenticación JWT, co
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JulioXC4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioXC4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Lenguajes más usados" />
+<img src="https://streak-stats.demolab.com/?user=JulioXC4&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=JulioXC4&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JulioXC4&theme=tokyonight&hide_border=true" alt="Repos por lenguaje" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JulioXC4&theme=tokyonight&hide_border=true" alt="Lenguajes por commits" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JulioXC4&theme=tokyonight&hide_border=true" alt="Stats" />
 
 </div>
 
